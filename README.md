@@ -35,7 +35,8 @@ Architecture: Decentralized P2P
 Security: Chain key cryptography
 
 🚀 Getting Started
-bashCopy# Coming soon
+Coming soon...
+
 💡 Use Cases
 
 Enterprise document sharing
@@ -59,6 +60,7 @@ Create pull requests
 
 📬 Contact
 For inquiries, reach out to our team at [Contact information to be added]
+
 🌟 Support Us
 Star ⭐ this repository if you find it helpful!
 
